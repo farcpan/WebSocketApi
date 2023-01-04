@@ -1,0 +1,8 @@
+{
+	"db": {
+		"targetTableName": "TargetTable.dev"
+	},
+	"api": {
+		"stageName": "v1"
+	}
+}
